@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "image" : "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1685966374/Croma%20Assets/Computers%20Peripherals/Laptop/Images/256711_umnwok.png?tr=w-360",
+        "title" : "macbook",
+        "price" : 500
+    },
+    {
+        "id" : 2,
+        "image" : "https://m.media-amazon.com/images/I/71yWBoj2kuL._AC_UF1000,1000_QL80_.jpg",
+        "title" : "MSI",
+        "price" : 400
+    },
+    {
+        "id" : 3,
+        "image" : "https://m.media-amazon.com/images/I/51Pr8OsNQVL._AC_UF1000,1000_QL80_.jpg",
+        "title" : "Razor Blade",
+        "price" : 450
+    },
+    {
+        "id" : 4,
+        "image" : "https://5.imimg.com/data5/SELLER/Default/2023/6/317125749/RW/BZ/BB/80624061/asus-vivobook-s14-oled.jpg",
+        "title" : "Asus Lumina",
+        "price" : 500
+    },
+    {
+        "id" : 5,
+        "image" : "https://www.lenovo.com/medias/ThinkBook-14-Gen-2-Intel-hero.png?context=bWFzdGVyfHJvb3R8NjYwMDh8aW1hZ2UvcG5nfGg2NC9oZjYvMTMwMzMyMzY0NjM2NDYucG5nfDdlZWU5OGJlYzllYWI0OTM2NDcyMjMwYzA4ZmY3OWRjZDFkNTI4NjgxNWJhOGRmNmZlYTE3OWUzODhmOWQyZjM",
+        "title" : "Lenovo Thinkpad",
+        "price" : 350
+    },
+    {
+        "id" : 6,
+        "image" : "https://headon.com.pk/wp-content/uploads/2023/06/c162eb76c19ee5d430741d95e2daaeb2-17888-0-030822110506051.jpg",
+        "title" : "HP Pavilion 15",
+        "price" : 400
+    }
+]
